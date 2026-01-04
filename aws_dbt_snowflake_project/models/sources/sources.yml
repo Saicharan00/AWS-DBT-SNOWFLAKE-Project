@@ -1,0 +1,10 @@
+
+sources:
+  - name: staging
+    database: AIRBNB  
+    schema: staging  
+    tables:
+      - name: listings
+      - name: bookings_table  # This is the dbt source name
+        identifier: bookings   # This is the actual Snowflake table name
+      - name: hosts
