@@ -1,1 +1,0 @@
-{{ snapshot_dim_hosts_snapshot() }}
