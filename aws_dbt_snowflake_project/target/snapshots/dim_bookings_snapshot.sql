@@ -1,0 +1,1 @@
+{{ snapshot_dim_bookings_snapshot() }}
