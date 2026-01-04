@@ -13,3 +13,5 @@ target/
 dbt_packages/
 logs/
 *.log
+profiles.yml
+**/profiles.yml
