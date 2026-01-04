@@ -12,3 +12,4 @@ wheels/
 target/
 dbt_packages/
 logs/
+*.log
